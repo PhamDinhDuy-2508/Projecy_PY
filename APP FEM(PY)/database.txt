@@ -1,0 +1,9 @@
+steal,1,1,1
+steal2,1,1,1
+gold,2,1.2,1
+steal,0.1,0.1,1
+stea3,0.3445,0.0000000014,1
+material1,0.3,0.000004,1
+Cer,0.3,2e3,1
+newmaterial,2e11,0.00001,0.01
+qeqweqweqw,1,2e3,2
